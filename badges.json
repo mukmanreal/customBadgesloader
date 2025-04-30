@@ -12,6 +12,8 @@
     { "name": "Orbs", "badge": "https://i.imgur.com/m9OD533.png", "custom": true },
     { "name": "Early Released Discord Features", "badge": "https://i.imgur.com/uGjQwCj.png", "custom": true },
     { "name": "Discord Experimental Previews Server Owner", "badge": "https://i.imgur.com/rARGcFK.png", "custom": true },
+    { "name": "Discord Experimental Previews Early Access", "badge": "https://i.imgur.com/6kuQy6I.png", "custom": true },
+    { "name": "Discord Experimental Previews Server Booster Access", "badge": "https://i.imgur.com/NP9GTNE.png", "custom": true },
     { "name": "Completed a Quest", "badge": "https://i.imgur.com/P3R4wKc.png", "custom": true }
   ],
   "1084895953221320704": [
@@ -35,6 +37,7 @@
     { "name": "Early Supporter", "badge": "https://i.imgur.com/gWkA4qA.png", "custom": true },
     { "name": "Discord Bug Hunter", "badge": "https://i.imgur.com/rGqA6LC.png", "custom": true },
     { "name": "Orbs", "badge": "https://i.imgur.com/m9OD533.png", "custom": true },
+    { "name": "Discord Experimental Previews Early Access", "badge": "https://i.imgur.com/6kuQy6I.png", "custom": true },
     { "name": "Early Released Discord Features", "badge": "https://i.imgur.com/uGjQwCj.png", "custom": true }
   ]
 }
