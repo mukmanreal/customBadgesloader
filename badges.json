@@ -36,5 +36,10 @@
     { "name": "Orbs", "badge": "https://i.imgur.com/m9OD533.png", "custom": true },
     { "name": "Discord Experimental Previews Early Access", "badge": "https://i.imgur.com/OHtqe8l.png", "custom": true },
     { "name": "Early Released Discord Features", "badge": "https://i.imgur.com/uGjQwCj.png", "custom": true }
+  ],
+  "1261007617648754709": [
+    { "name": "Discord Staff", "badge": "https://i.imgur.com/kr0dkwc.png", "custom": true },
+    { "name": "Early Supporter", "badge": "https://i.imgur.com/gWkA4qA.png", "custom": true },
+    { "name": "Discord Experimental Previews Verified Bot", "badge": "https://i.imgur.com/m09bkqB.png", "custom": true },
   ]
 }
